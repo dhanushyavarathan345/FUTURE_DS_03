@@ -68,7 +68,5 @@ This project analyzes **rating-based feedback data** to understand overall stude
 - Provide additional learning resources.
 - Continue effective doubt-clearing practices.
 
----
 
-## 📁 Repository Structure
 
